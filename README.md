@@ -2,7 +2,7 @@
 -> This finds the prime numbers whose product you have given as the input 
 
 Use Case :
-        Not too long ago , people where using this technology to encrypt and decrypt messgaes send to anonymous people .
+        Not too long ago , people where using this technology to encrypt and decrypt messgaes sent to anonymous people .
 Only people with atleast one prime number from the product can access the data.
 
 Limitation :
